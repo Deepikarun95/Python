@@ -1,12 +1,14 @@
 #####given numbers in ascending order using ########
 #############sorting###########
+
 a1=[5,8,2,9,45,65,25,78]
 
-a1.sort()
+a1.sort() ###inbuilt futn###
 print(a1)
 
 
 ####using conditional statement#########
+
 num1=int(input("aa   :"))
 num2=int(input("bb   :"))
 num3=int(input("cc   : ")) 
